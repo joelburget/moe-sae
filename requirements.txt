@@ -1,3 +1,4 @@
 git+https://github.com/huggingface/transformers.git
 git+https://github.com/jbloomAus/SAELens.git
 git+https://github.com/joelburget/TransformerLens.git@olmoe
+git+https://github.com/jbloomAus/SAEDashboard.git
