@@ -1,4 +1,4 @@
-git+https://github.com/huggingface/transformers.git
-git+https://github.com/jbloomAus/SAELens.git
-git+https://github.com/joelburget/TransformerLens.git@olmoe
-git+https://github.com/jbloomAus/SAEDashboard.git
+# git+https://github.com/jonasrohw/TransformerLens.git@OLMo
+sae-lens # >= 5.2.1
+transformers >= 4.40.0
+sae-dashboard
